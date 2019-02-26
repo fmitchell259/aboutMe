@@ -1,7 +1,7 @@
 # helloWorld
 
-In March 2018 I decided to make a complete life change, sell up my small business
-and embark on a career as a software developer. 
+In March 2018 I decided to make a complete life change and embark on 
+a career as a software developer. 
 
 To prepare for this change I took on a tutor in maths and computer science and 
 over the last year and a half have been learning Python and building small systems. 
