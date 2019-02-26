@@ -1,4 +1,4 @@
-# helloWorld
+# About Me
 
 In March 2018 I decided to make a complete life change and embark on 
 a career as a software developer. 
